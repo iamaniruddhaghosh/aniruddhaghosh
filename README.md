@@ -3,9 +3,6 @@
 ## 💫 About Me
 I’m a Cloud and DevOps Engineer with a strong background in cloud architecture, automation, and system administration. With 7+ years of hands-on experience in both Azure and AWS, I design and implement reliable, secure, and efficient cloud-based solutions tailored to business needs.
 
-Cloud & DevOps Engineer | Multi Cloud☁️ | AWS | Azure | Terraform | Docker 🐳 | Kubernetes ☸️ | GitOps | CI/CD 🚀 | DevOps ♾️ | Linux 🐧| Windows🪟 | IIS🌍 | Apache🪶| DevOps Culture Enthusiast 🤝
-
-
 ## 🌐 Socials
 
 <div align="center">
@@ -34,7 +31,7 @@ Cloud & DevOps Engineer | Multi Cloud☁️ | AWS | Azure | Terraform | Docker �
 ## 💻 Tech Stack:
 
 <div align="center">
-  <hr style="width: 80px; border: 1px solid #ccc;" />
+<!--  <hr style="width: 80px; border: 1px solid #ccc;" /> -->
   <strong style="font-size: 30px;">🎯 Plan</strong>
   <hr style="width: 80px; border: 1px solid #ccc;" />
 </div>
@@ -167,7 +164,7 @@ Cloud & DevOps Engineer | Multi Cloud☁️ | AWS | Azure | Terraform | Docker �
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=iamaniruddhaghosh&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributed repos" />
 </div>

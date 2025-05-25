@@ -34,20 +34,24 @@ Cloud & DevOps Engineer | Multi Cloud☁️ | AWS | Azure | Terraform | Docker �
 ## 💻 Tech Stack:
 
 <div align="center">
-  <strong style="font-size: 30px;">☁️ Cloud</strong>
+  <hr style="width: 80px; border: 1px solid #ccc;" />
+  <strong style="font-size: 30px;">🎯 Plan</strong>
   <hr style="width: 80px; border: 1px solid #ccc;" />
 </div>
-<!-- Azure -->
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
+
+  <!-- Jira -->
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28" alt="Azure badge" />
-  
+  <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" height="28" alt="Jira badge" />
+
   <img width="24" />
-<!-- AWS -->
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
+
+  <!-- Confluence -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="Confluence logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" alt="AWS badge" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white" height="28" alt="Confluence badge" />
 </div>
 
 <div align="center">
@@ -125,7 +129,24 @@ Cloud & DevOps Engineer | Multi Cloud☁️ | AWS | Azure | Terraform | Docker �
   <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" height="28" alt="GitLab badge" />
 </div>
 
+<div align="center">
+  <hr style="width: 80px; border: 1px solid #ccc;" />
+  <strong style="font-size: 30px;">☁️ Cloud</strong>
+  <hr style="width: 80px; border: 1px solid #ccc;" />
+</div>
 
+<!-- Azure -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28" alt="Azure badge" />
+  
+  <img width="24" />
+<!-- AWS -->
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" alt="AWS badge" />
+</div>
   
 </div>
 
@@ -142,7 +163,9 @@ Cloud & DevOps Engineer | Multi Cloud☁️ | AWS | Azure | Terraform | Docker �
 ###
 
 ### ✍️ Quote For the Day
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">

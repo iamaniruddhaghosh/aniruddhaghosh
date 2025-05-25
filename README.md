@@ -187,7 +187,7 @@ I’m a Cloud and DevOps Engineer with a strong background in cloud architecture
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/AWS CloudFormation-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" alt="AWS CloudFormation badge" />
-
+  <img width="12" />
   <!-- Terraform -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform logo" />
   <img width="12" />

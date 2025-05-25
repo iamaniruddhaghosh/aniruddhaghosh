@@ -91,6 +91,41 @@ Cloud & DevOps Engineer | Multi Cloud☁️ | AWS | Azure | Terraform | Docker �
   <img src="https://img.shields.io/badge/bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white" height="28" alt="Bitbucket badge" />
 </div>
 
+<div align="center">
+  <hr style="width: 80px; border: 1px solid #ccc;" />
+  <strong style="font-size: 30px;">👨‍💻 CI/CD</strong>
+  <hr style="width: 80px; border: 1px solid #ccc;" />
+</div>
+
+<div align="center">
+  <!-- Jenkins -->
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" height="28" alt="Jenkins badge" />
+
+  <img width="24" />
+
+  <!-- Azure DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" height="28" alt="Azure DevOps badge" />
+
+  <img width="24" />
+
+  <!-- CircleCI -->
+  <img src="https://cdn.simpleicons.org/circleci/343434" height="40" alt="CircleCI logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CircleCI-343434.svg?style=for-the-badge&logo=circleci&logoColor=white" height="28" alt="CircleCI badge" />
+
+  <img width="24" />
+
+  <!-- GitLab CI/CD -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" height="28" alt="GitLab badge" />
+</div>
+
+
   
 </div>
 

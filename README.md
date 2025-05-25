@@ -170,6 +170,33 @@ I’m a Cloud and DevOps Engineer with a strong background in cloud architecture
   <img src="https://img.shields.io/badge/AWS Lambda-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" alt="AWS Lambda badge" />
 </div>
 
+<div align="center">
+  <hr style="width: 80px; border: 1px solid #ccc;" />
+  <strong style="font-size: 30px;">🏗️ Infrastructure as Code (IaC)</strong>
+  <hr style="width: 80px; border: 1px solid #ccc;" />
+
+ <div align="center">
+  <!-- Ansible -->
+  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="40" alt="Ansible logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" height="28" alt="Ansible badge" />
+
+  <img width="12" />
+
+  <!-- AWS CloudFormation -->
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/AWS CloudFormation-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" alt="AWS CloudFormation badge" />
+
+  <!-- Terraform -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" height="28" alt="Terraform badge" />
+
+  <img width="24" />
+
+</div>
+  
   
 </div>
 

@@ -84,7 +84,7 @@ I’m a Cloud and DevOps Engineer with a strong background in cloud architecture
   <img width="12" />
   <img src="https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" height="28" alt="GitLab badge" />
 
-  <img width="24" />
+  <img width="12" />
 
   <!-- Bitbucket -->
   <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="40" alt="Bitbucket logo" />
@@ -193,7 +193,7 @@ I’m a Cloud and DevOps Engineer with a strong background in cloud architecture
   <img width="12" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" height="28" alt="Terraform badge" />
 
-  <img width="24" />
+  <img width="12" />
 
 </div>
   

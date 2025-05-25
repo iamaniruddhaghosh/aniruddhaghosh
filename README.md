@@ -63,7 +63,7 @@ I’m a Cloud and DevOps Engineer with a strong background in cloud architecture
   <img width="12" />
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" height="28" alt="Git badge" />
 
-  <img width="24" />
+  <img width="12" />
 
   <!-- GitHub -->
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />

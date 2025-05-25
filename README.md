@@ -59,35 +59,35 @@ I’m a Cloud and DevOps Engineer with a strong background in cloud architecture
 
 <div align="center">
   <!-- Git -->
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" height="28" alt="Git badge" />
 
   <img width="12" />
 
   <!-- GitHub -->
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub badge" />
 
   <img width="12" />
 
   <!-- Subversion -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" height="40" alt="Subversion logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" height="30" alt="Subversion logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white" height="28" alt="Subversion badge" />
 
   <img width="12" />
 
   <!-- GitLab -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" height="28" alt="GitLab badge" />
 
   <img width="12" />
 
   <!-- Bitbucket -->
-  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="40" alt="Bitbucket logo" />
+  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="30" alt="Bitbucket logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white" height="25" alt="Bitbucket badge" />
 </div>

@@ -89,7 +89,7 @@ I’m a Cloud and DevOps Engineer with a strong background in cloud architecture
   <!-- Bitbucket -->
   <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="40" alt="Bitbucket logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white" height="28" alt="Bitbucket badge" />
+  <img src="https://img.shields.io/badge/bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white" height="25" alt="Bitbucket badge" />
 </div>
 
 <div align="center">
@@ -144,6 +144,32 @@ I’m a Cloud and DevOps Engineer with a strong background in cloud architecture
   <img width="12" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" alt="AWS badge" />
 </div>
+
+<div align="center">
+  <hr style="width: 80px; border: 1px solid #ccc;" />
+  <strong style="font-size: 30px;">🚀 Deployment</strong>
+  <hr style="width: 80px; border: 1px solid #ccc;" />
+  
+  <!-- Docker -->
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="28" alt="Docker badge" />
+
+  <img width="24" />
+
+  <!-- Kubernetes -->
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="28" alt="Kubernetes badge" />
+
+  <img width="24" />
+
+  <!-- AWS Lambda -->
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS Lambda logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/AWS Lambda-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" alt="AWS Lambda badge" />
+</div>
+
   
 </div>
 

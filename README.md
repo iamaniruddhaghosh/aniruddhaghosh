@@ -70,14 +70,14 @@ I’m a Cloud and DevOps Engineer with a strong background in cloud architecture
   <img width="12" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub badge" />
 
-  <img width="24" />
+  <img width="12" />
 
   <!-- Subversion -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" height="40" alt="Subversion logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white" height="28" alt="Subversion badge" />
 
-  <img width="24" />
+  <img width="12" />
 
   <!-- GitLab -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab logo" />
@@ -104,7 +104,7 @@ I’m a Cloud and DevOps Engineer with a strong background in cloud architecture
   <img width="12" />
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" height="28" alt="Jenkins badge" />
 
-  <img width="24" />
+  <img width="12" />
 
   <!-- Azure DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
@@ -118,7 +118,7 @@ I’m a Cloud and DevOps Engineer with a strong background in cloud architecture
   <img width="12" />
   <img src="https://img.shields.io/badge/CircleCI-343434.svg?style=for-the-badge&logo=circleci&logoColor=white" height="28" alt="CircleCI badge" />
 
-  <img width="24" />
+  <img width="12" />
 
   <!-- GitLab CI/CD -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab logo" />
@@ -138,7 +138,7 @@ I’m a Cloud and DevOps Engineer with a strong background in cloud architecture
   <img width="12" />
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" height="28" alt="Azure badge" />
   
-  <img width="24" />
+  <img width="12" />
 <!-- AWS -->
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
   <img width="12" />
@@ -155,7 +155,7 @@ I’m a Cloud and DevOps Engineer with a strong background in cloud architecture
   <img width="12" />
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="28" alt="Docker badge" />
 
-  <img width="24" />
+  <img width="12" />
 
   <!-- Kubernetes -->
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes logo" />

@@ -159,11 +159,6 @@ I’m a Cloud and DevOps Engineer with a strong background in cloud architecture
 
 ###
 
-### ✍️ Quote For the Day
-<div align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
-
 ## 🔝 Top Contributed Repo
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=iamaniruddhaghosh&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributed repos" />
